@@ -1,0 +1,4 @@
+Flask==3.0.3
+spotipy==2.24.0
+yt-dlp==2025.01.15
+gunicorn==22.0.0
